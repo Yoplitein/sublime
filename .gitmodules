@@ -1,0 +1,9 @@
+[submodule "BuildSelect"]
+	path = BuildSelect
+	url = https://github.com/Yoplitein/BuildSelect
+[submodule "DKit"]
+	path = DKit
+	url = https://github.com/yazd/DKit
+[submodule "st2-d"]
+	path = st2-d
+	url = https://github.com/Yoplitein/st2-d
