@@ -16,7 +16,7 @@
 	"ignored_packages": [
 		"Vintage"
 	],
-	"ignored_words":[],
+	"ignored_words": [],
 	"indent_guide_options": [
 		"draw_normal"
 	],

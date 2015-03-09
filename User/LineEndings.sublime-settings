@@ -1,4 +1,4 @@
 {
-    "alert_when_line_ending_is" : ["Windows", "CR"],
+    "alert_when_line_ending_is" : [],
     "auto_convert_line_endings_to" : "Unix"
 }
