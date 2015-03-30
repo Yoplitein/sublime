@@ -30,10 +30,10 @@
 	"margin": 0,
 	"show_line_endings": true,
 	"smart_indent": true,
+	"spell_check": true,
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": false,
 	"trim_automatic_white_space_on_save": false,
 	"use_tab_stops": true,
-	"word_separators": " !@#$%^&*()_+-=[]{}'\";:/?<>,.",
-	"spell_check": true,
+	"word_separators": " !@#$%^&*()_+-=[]{}'\";:/?<>,."
 }

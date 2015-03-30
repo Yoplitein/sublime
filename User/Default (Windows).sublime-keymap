@@ -12,7 +12,8 @@
     { "keys": ["ctrl+alt+4"], "command": "move_to_group", "args": { "group": 3 } },
     { "keys": ["alt+up"], "command": "select_lines", "args": {"forward": false} },
     { "keys": ["alt+down"], "command": "select_lines", "args": {"forward": true} },
-    { "keys": ["ctrl+shift+b"], "command": "build_select" },
+    //{ "keys": ["ctrl+shift+b"], "command": "build_select" },
+    { "keys": ["ctrl+alt+c"], "command": "toggle_case_sensitive", },
     {
         "keys": ["alt+shift+2"],
         "command": "set_layout",
