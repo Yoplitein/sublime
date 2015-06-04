@@ -29,6 +29,7 @@
 	"linecomments_ctrl_enter": true,
 	"margin": 0,
 	"show_line_endings": true,
+	"default_line_ending": "unix",
 	"smart_indent": true,
 	"spell_check": true,
 	"translate_tabs_to_spaces": true,
