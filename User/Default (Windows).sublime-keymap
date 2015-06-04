@@ -16,6 +16,7 @@
     { "keys": ["ctrl+alt+c"], "command": "toggle_case_sensitive", },
     { "keys": ["ctrl+shift+]"], "command": "indent" },
     { "keys": ["ctrl+shift+["], "command": "unindent" },
+    { "keys": ["ctrl+space"], "command": "auto_complete" },
     {
         "keys": ["alt+shift+2"],
         "command": "set_layout",
