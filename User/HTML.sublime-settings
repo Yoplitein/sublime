@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
-		"emd"
+		"emd",
+		"html"
 	]
 }

@@ -3,6 +3,7 @@
 	"auto_complete_commit_on_tab": false,
 	"auto_indent": true,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"default_line_ending": "unix",
 	"draw_indent_guides": true,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -16,7 +17,8 @@
 	"font_size": 8,
 	"ignored_packages":
 	[
-		"Vintage",
+		"GMod Lua",
+		"Vintage"
 	],
 	"ignored_words":
 	[
@@ -29,7 +31,6 @@
 	"linecomments_ctrl_enter": true,
 	"margin": 0,
 	"show_line_endings": true,
-	"default_line_ending": "unix",
 	"smart_indent": true,
 	"spell_check": true,
 	"translate_tabs_to_spaces": true,
