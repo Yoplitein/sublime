@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+/++
+    ${4:Documentation.}
++/
+@property ${1:void} ${2:name}()
+{
+    return ${3:value};
+}
+
+/++
+    ditto
++/
+@property ${1:void} ${2:name}(${1:void} newValue)
+{
+    return ${3:value} = newValue;
+}
+]]></content>
+    <tabTrigger>getset</tabTrigger>
+    <scope>source.d</scope>
+</snippet>
