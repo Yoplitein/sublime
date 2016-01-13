@@ -1,9 +1,10 @@
+*.dmp
+/backrefs
 /bz2
+/Dart
+/Floobits
 /PyV8
 /SFTP
 /ssl-linux
-/Dart
-/Floobits
-/TypeScript
 /TodoReview
-*.dmp
+/TypeScript

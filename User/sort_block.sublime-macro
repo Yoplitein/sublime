@@ -1,0 +1,5 @@
+[
+    {"command": "select_block"},
+    {"command": "sort_lines", "args": {"case_sensitive": false}},
+    {"command": "move_to", "args": {"to": "eol", "extend": false}}
+]
