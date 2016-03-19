@@ -1,6 +1,7 @@
 {
-	"extensions":
-	[
-		"service"
-	]
+    "extensions":
+    [
+        "service",
+        "timer"
+    ]
 }
