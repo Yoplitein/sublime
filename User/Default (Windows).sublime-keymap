@@ -20,6 +20,7 @@
     { "keys": ["ctrl+f9"], "command": "run_macro_file", "args": {"file": "res://Packages/User/sort_block.sublime-macro"} },
     { "keys": ["shift+f9"], "command": "run_macro_file", "args": {"file": "res://Packages/User/sort_block.sublime-macro"} },
     { "keys": ["alt+f9"], "command": "run_macro_file", "args": {"file": "res://Packages/User/sort_block.sublime-macro"} },
+    { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
     {
         "keys": ["alt+shift+2"],
         "command": "set_layout",
